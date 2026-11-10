@@ -1,0 +1,17 @@
+{
+  "name": "pm64",
+  "titleIds": [
+    "0005000010199700"
+  ],
+  "mods": [
+    {
+      "id": "hd",
+      "name": "hd-texture",
+      "type": "mod",
+      "version": "4.0.3",
+      "author": "masterkillua",
+      "description": "hd texture for paper mario 64",
+      "download": "https://drive.google.com/file/d/1bcl1wXGeywUFAaGGbPapoN5b-KlZkYeV/view?usp=sharing"
+    }
+  ]
+}

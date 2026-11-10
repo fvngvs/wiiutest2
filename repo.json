@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "name": "pm64",
+  "author": "fvngvs",
+  "description": "things",
+  "version": "1",
+  "games": [
+    {
+      "path": "games/pm64/game.json"
+    }
+  ]
+}
